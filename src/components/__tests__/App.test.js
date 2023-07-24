@@ -18,3 +18,4 @@ test('When our app mounts, Add New Animal Header exists on the screen', () => {
     expect(header).toHaveTextContent(/add new animal/i);
 })
 
+
